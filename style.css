@@ -1,0 +1,19 @@
+body{
+    background-color: azure;
+    margin: 50px;
+}
+
+h1{
+    color: pink;
+}
+#section{
+    border: 3px;
+}
+
+a{
+    color: black;
+    margin-right: 5px;
+}
+.active{
+    color: aqua;
+}
